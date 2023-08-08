@@ -1,0 +1,3 @@
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/matplotlib-cpp-populate.dir
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/CMakeFiles/lodepng.dir
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/CMakeFiles/GrupalHistograma.dir
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir

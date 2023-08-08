@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/matplotlib-cpp-populate"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/matplotlib-cpp-populate.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/CMakeFiles/matplotlib-cpp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/jkmoncayo/Downloads/GrupalHistograma/cmake-build-debug/_deps/matplotlib-cpp-subbuild/matplotlib-cpp-populate-prefix/src/matplotlib-cpp-populate-stamp/matplotlib-cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matplotlib-cpp-populate"
+		],
+		"name" : "matplotlib-cpp-populate"
+	}
+}
