@@ -1,0 +1,4 @@
+/workspace/Grupal_Histograma/CMakeFiles/lodepng.dir
+/workspace/Grupal_Histograma/CMakeFiles/GrupalHistograma.dir
+/workspace/Grupal_Histograma/CMakeFiles/edit_cache.dir
+/workspace/Grupal_Histograma/CMakeFiles/rebuild_cache.dir
